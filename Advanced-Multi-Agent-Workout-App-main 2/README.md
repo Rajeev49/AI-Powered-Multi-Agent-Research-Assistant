@@ -1,14 +1,17 @@
-# Advanced-Multi-Agent-Workout-App
+# 🧠 AI-Powered Multi Agent Research Assistant 
 
-# 💻 Launch Your Software Development Career Today!  
+A full-stack AI fitness app that delivers personalized workouts and nutrition plans. It combines LangFlow multi-agent orchestration, a Streamlit UI, and Astra DB vector search to provide context-aware advice using RAG (Retrieval-Augmented Generation).
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+🚀 Features
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+📝 User Profile Management: Store personal data such as age, weight, height, gender, and activity level.
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+🎯 Fitness Goals: Choose between muscle gain, fat loss, or general activity.
+
+🤖 AI-Generated Nutrition Macros: Automatically calculate calories, protein, carbs, and fats using AI.
+
+📚 Notes with Vector Search: Add personal fitness notes (e.g., injuries, preferences), stored in Astra DB with vector embeddings for RAG.
+
+💬 Ask AI Anything: Context-aware AI assistant that retrieves relevant notes and gives actionable answers.
+
+🖥️ Interactive Frontend: Built with Streamlit, featuring a clean, dynamic UI.
